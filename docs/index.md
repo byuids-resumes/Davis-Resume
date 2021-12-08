@@ -6,8 +6,8 @@ title: Joseph Davis' Resume
 Business Analytics Major at Bringham Young University - Idaho
 
 <div id="webaddress">
-jdavis6549@gmail.com</a>
-| 928-951-23790</a>
+jdavis6549@gmail.com
+| 928-951-23790
 | <a href="www.linkedin.com/in/joseph-davis-18144a1b9">LinkedIn</a>
 | <a href="https://github.com/jdavis6549">GitHub</a>
 </div>
