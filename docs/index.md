@@ -17,12 +17,14 @@ jdavis6549@gmail.com
 ## Education
 
 `2018 - 2020`
+
 __Mesa Community College__, Mesa, AZ
 Associates In Business & Communication
 
 - Related Courses: Business Communication, Math Analysis for Business, Managerial Accounting
 
 `Expected 2022`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 Bachelors In Business Analytics
 
@@ -54,6 +56,7 @@ Bachelors In Business Analytics
 ### Internships
 
 `November 2021 - Current`
+
 __TDS Telecom__, Remote
 Data Analyst Intern
 
@@ -66,6 +69,7 @@ Data Analyst Intern
 ## Work History
 
 `2020-2021`
+
 __Premier Performance__, Remote
 Customer Service Representative
 
@@ -77,6 +81,7 @@ Customer Service Representative
 
 
 `2017 - 2020`
+
 __Red Rock Insurance LLC__, Mesa AZ
 Billingual Insurance Agent
 
