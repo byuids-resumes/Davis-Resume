@@ -1,12 +1,13 @@
 ---
-layout: cv
+layout: resume
 title: Joseph Davis' Resume
 ---
 # Joseph Davis
 Business Analytics Major at Bringham Young University - Idaho
 
 <div id="webaddress">
-| <a href="https://www.byui.edu/majors/business-analytics-(bs)l">Business Analytics Program</a>
+jdavis6549@gmail.com</a>
+| 928-951-23790</a>
 | <a href="www.linkedin.com/in/joseph-davis-18144a1b9">LinkedIn</a>
 | <a href="https://github.com/jdavis6549">GitHub</a>
 </div>
